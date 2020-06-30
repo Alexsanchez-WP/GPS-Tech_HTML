@@ -8,6 +8,6 @@
 
 ![Diseñor de la imagen a dos columnas full resposive con formulario de contacto y chat](./images/full_descktop_gpstech_a-wp.png)
 
-***Live del proyecto [aqui](https://gpstech-a-wp.netlify.app)***
+***Live del proyecto [aqui](https://gpstech-alexander-wp.netlify.app/)***
 
 ***Todos los derechos resevados***
