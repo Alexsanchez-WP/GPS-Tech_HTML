@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e68e66b-d6e1-44fb-a668-95251a77fb1d/deploy-status)](https://app.netlify.com/sites/gpstech-alexander-wp/deploys)
+
 # GPS TECH Web Site
 
 **Esta es una pagina web responsive que fue desarrollada para una empresa de monitoreo de vehiculos, alcualmente en liquidación**
